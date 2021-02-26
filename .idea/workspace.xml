@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1ccb684-9f90-4307-ac2f-2112fce422f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/cassandra-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/072a866d-bc5e-4c5a-8dab-636ae0880cd1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/072a866d-bc5e-4c5a-8dab-636ae0880cd1/storage_v2/_src_/schema/system.L3Icyw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/072a866d-bc5e-4c5a-8dab-636ae0880cd1/storage_v2/_src_/schema/system_schema.sb0HgQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/handlers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/handlers_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cassandra-api" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/connection.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/student.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/studentRepository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocks/domain/mock_StudentRepository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocks/service/mock_StudentService.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/studentService.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/studentService_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614265957622</updated>
       <workItem from="1614265959101" duration="14543000" />
-      <workItem from="1614320206310" duration="15600000" />
+      <workItem from="1614320206310" duration="16283000" />
     </task>
     <servers />
   </component>
