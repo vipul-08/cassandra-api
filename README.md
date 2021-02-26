@@ -12,6 +12,8 @@ make db_shell
 CREATE KEYSPACE student_api
   WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 1 };
 
+USE student_api;
+
 CREATE TABLE emps (
   id uuid PRIMARY KEY,
   name text,
